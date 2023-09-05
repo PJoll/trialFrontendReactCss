@@ -16,8 +16,3 @@ const Home = () => {
 
 export default Home;
 
-/*
-            <Pricing />
-            <Testimonials />
-
-*/
